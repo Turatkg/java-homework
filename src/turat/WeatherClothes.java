@@ -1,3 +1,5 @@
+package turat;
+
 import java.util.Scanner;
 
 public class WeatherClothes {
